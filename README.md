@@ -2,7 +2,7 @@
 
 In this repository, you can find related documents and my solutions of assignments about Prof. Dr. Ethem Alpaydin's Artificial Neural Networks course at Bogazici University. 
 
-I would like to thank Burak Suyunu (@suyunu) for all help in this assignments.
+I would like to thank Burak Suyunu (@suyunu) for all help in these assignments.
 
 ### Assignment-I: Parametric Classification
 * Estimate class priors, means and variances using the training data.
